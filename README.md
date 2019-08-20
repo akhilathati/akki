@@ -1,0 +1,2 @@
+# akki
+git basics
